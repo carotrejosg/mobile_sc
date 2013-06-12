@@ -127,7 +127,8 @@ body{
 }
 
 .medium-header{
-  width: 100%
+  width: 100%;
+  background-color :#000;
 }
 .medium-header h1{
   text-align: center;
