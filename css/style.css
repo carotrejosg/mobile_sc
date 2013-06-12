@@ -121,3 +121,15 @@ body{
     cursor: pointer;
 
 }
+
+.top-header{
+  background-color: #fff;
+}
+
+.medium-header{
+  width: 100%
+}
+.medium-header h1{
+  text-align: center;
+  color: #fed905;
+}
