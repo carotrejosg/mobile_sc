@@ -113,7 +113,6 @@ body{
   font-size: 0.6em;
   text-transform: uppercase;
 
-
  }
 
   #main-menu li a:hover{
@@ -126,9 +125,10 @@ body{
   background-color: #fff;
 }
 
-.medium-header{
+.medium-header {
   width: 100%;
-  background-color :#000;
+  background-color: #404348;
+  height: 56px;
 }
 .medium-header h1{
   text-align: center;
