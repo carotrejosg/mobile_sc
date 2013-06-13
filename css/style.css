@@ -141,3 +141,6 @@ body{
 .fb_iframe_widget iframe{
 	z-index: 0;
 }
+.fb_iframe_widget{
+	padding-bottom: 55%;
+}
