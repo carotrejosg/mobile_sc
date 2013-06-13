@@ -120,6 +120,7 @@ body{
   #main-menu li a:hover{
     color: #ffdd05;
     cursor: pointer;
+    border-left: 3px solid #fee004;
 
 }
 
