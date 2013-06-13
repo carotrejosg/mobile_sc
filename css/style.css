@@ -75,6 +75,8 @@ body{
   margin: 0 auto;
   background-color: #fff;
   padding: 38% 2%;
+  height:300px;
+  overflow: scroll;
 }
 
 .container{
@@ -133,4 +135,9 @@ body{
 .medium-header h1{
   text-align: center;
   color: #fed905;
+}
+
+/*Facebook*/
+.fb_iframe_widget iframe{
+	z-index: 0;
 }
