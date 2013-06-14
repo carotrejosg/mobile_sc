@@ -48,24 +48,9 @@ body{
   font-family:Arial, Helvetica, sans-serif;
   background:#404348;
 }
-.slogan-wrapper{
-  width: 100%;
-  background-color: #404348;
+#slogan{
+  display: none;
 }
-.slogan-wrapper h1{
-  line-height: 0px;
-  color:#fed904;
-  padding: 5px 3px;
-
-}
-.slogan-wrapper h2{
-  font-size: 0.9em;
-  color: #fff;
-}
-.slogan-wrapper .container {
-  padding: 4% 9%;;
-}
-
 .menu-but{
   background-color: #fff;
 }
@@ -75,6 +60,8 @@ body{
   margin: 0 auto;
   background-color: #fff;
   padding: 38% 2%;
+  height: 400px;
+  overflow: scroll;
 }
 
 .container{
@@ -118,6 +105,8 @@ body{
   #main-menu li a:hover{
     color: #ffdd05;
     cursor: pointer;
+    background-color: #1c1c1c;
+    border-left: 2px solid #ffdd05;
 
 }
 
