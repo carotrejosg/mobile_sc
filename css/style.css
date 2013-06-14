@@ -60,7 +60,11 @@ body{
   margin: 0 auto;
   background-color: #fff;
   padding: 38% 2%;
+<<<<<<< HEAD
   height: 400px;
+=======
+  height:300px;
+>>>>>>> de1f9834628a65d9e38514d6fcd9bed09b440008
   overflow: scroll;
 }
 
@@ -105,8 +109,12 @@ body{
   #main-menu li a:hover{
     color: #ffdd05;
     cursor: pointer;
+<<<<<<< HEAD
     background-color: #1c1c1c;
     border-left: 2px solid #ffdd05;
+=======
+    border-left: 3px solid #fee004;
+>>>>>>> de1f9834628a65d9e38514d6fcd9bed09b440008
 
 }
 
@@ -122,4 +130,12 @@ body{
 .medium-header h1{
   text-align: center;
   color: #fed905;
+}
+
+/*Facebook*/
+.fb_iframe_widget iframe{
+	z-index: 0;
+}
+.fb_iframe_widget{
+	padding-bottom: 55%;
 }
